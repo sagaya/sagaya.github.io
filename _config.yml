@@ -38,12 +38,12 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: iOS
+    web_url: https://github.com/topics/swift
+    image_url: https://www.macincloud.com/pages/images/xcode-icon.png
 
-  - name: Web design
+  - name: Kotlin
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Swift
+    web_url: https://github.com/topics/swift
+    image_url: https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png
