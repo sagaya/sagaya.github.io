@@ -54,4 +54,11 @@ topics:
     web_url: https://github.com/topics/flask
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png
     
+  - name: Node.js
+    web_url: https://github.com/topics/nodejs
+    image_url: http://pluspng.com/img-png/nodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370.png
+    
+  - name: Angular
+    web_url: https://github.com/topics/angularjs
+    image_url: https://angular.io/assets/images/logos/angular/angular_solidBlack.png    
     
