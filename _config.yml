@@ -43,7 +43,15 @@ topics:
     image_url: https://www.macincloud.com/pages/images/xcode-icon.png
 
   - name: Kotlin
+    web_url: https://github.com/topics/kotlin
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/220px-Kotlin-logo.svg.png
 
   - name: Swift
     web_url: https://github.com/topics/swift
     image_url: https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png
+    
+  - name: Flask
+    web_url: https://github.com/topics/flask
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png
+    
+    
