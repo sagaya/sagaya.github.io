@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FocusFusion</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 25 Jul 2023 17:24:10 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sagaya/-/releases/download/1.0.0/ff-alpha.dmg" length="106990058" type="application/octet-stream" sparkle:edSignature="pRJis5cROqTu57hFLmcQWZIa9egW2DEiFcP5IzTVXy0VX2fHCry5KPbDKEND4HiwaUW8c+KIVFc6/ejEMTPmDA=="/>
+        </item>
+    </channel>
+</rss>
